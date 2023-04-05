@@ -1,0 +1,15 @@
+{
+  "Handler": {
+    "global": true,
+    "guild_id": "NOT_REQUIRED_IF_SET_TO_TRUE"
+  },
+  "Setup": {
+    "Token": "OTM1ODI5ODk3NTg5NDM2NDM2.G1dGPi.J9-Hw2_PMwRePqg0H37n3rDTxlTGMWH9L-C--M",
+    "DataBase_URL": "mongodb+srv://MONDISTECH:Bhargav@discordbot.inmfsod.mongodb.net/Test",
+    "Anti_Crash_System_Channel_ID": "PROVIDE_ONE"
+  },
+  "Permissions": {
+    "Owner_ID": "",
+    "Dev_ID": [""]
+  }
+}
